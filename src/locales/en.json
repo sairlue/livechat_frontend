@@ -1,7 +1,7 @@
 {
   "login": {
     "title": "Sign in",
-    "message": "Sign in to continue to Chatvia.",
+    "message": "Sign in to continue to LiveChat.",
     "form": {
       "email": {
         "label": "Email",
@@ -28,7 +28,7 @@
   },
   "register": {
     "title": "Sign up",
-    "message": "Get your Chatvia account now.",
+    "message": "Get your LiveChat account now.",
     "form": {
       "username": {
         "label": "Username",
@@ -61,7 +61,7 @@
   },
   "resetpassword": {
     "title": "Reset Password",
-    "message": "Reset Password With Chatvia.",
+    "message": "Reset Password With LiveChat.",
     "form": {
       "email": {
         "label": "Email",
@@ -460,7 +460,7 @@
     }
   },
   "footer": {
-    "name": "Chatvia. Crafted with ",
-    "text": " by Themesbrand"
+    "name": "LiveChat. Crafted with ",
+    "text": " by Oliver"
   }
 }

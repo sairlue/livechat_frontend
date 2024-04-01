@@ -89,10 +89,7 @@ export default {
       <div class="row justify-content-center">
         <div class="col-md-8 col-lg-6 col-xl-5">
           <div class="text-center mb-4">
-            <router-link to="/" class="auth-logo mb-5 d-block">
-              <img src="@/assets/images/logo-dark.png" alt height="30" class="logo logo-dark" />
-              <img src="@/assets/images/logo-light.png" alt height="30" class="logo logo-light" />
-            </router-link>
+            
 
             <h4>{{ $t('register.title') }}</h4>
             <p class="text-muted mb-4">{{ $t('register.message') }}</p>
